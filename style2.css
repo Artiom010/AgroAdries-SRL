@@ -1,0 +1,77 @@
+
+body {
+  background-image: url('pagina principala/background.png'); 
+  background-size: cover; 
+  background-attachment: fixed; 
+  background-repeat: no-repeat; 
+}
+   body, html {
+    height: 100%;
+  }
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    bottom: 0;
+    width: 200px; 
+    background-color: #333;
+    position: fixed; 
+    height: 100%;
+    margin-left: -10px; 
+  }
+
+  li {
+    text-align: center;
+    padding: 15px 0; 
+  }
+
+  li a {
+    display: block;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    font-style: normal;
+  }
+
+  li a:hover {
+    background-color: #39cf2b7a;
+    font-size: 30px;
+  }
+  
+  .content {
+    margin-left: 250px; 
+    padding: 20px;
+  }
+  .navbar-image {
+   
+   text-align: center;
+   margin-left: -142px;
+   padding: 0px;
+   margin-right: 8px;
+  }
+ 
+   .widget-margin
+   {
+    padding: 20px;
+   }
+   .navbar-image span {
+    font-size: 18px; 
+    color: #fff; 
+    }
+
+
+
+    .titlupagina h1{
+      font-size: 10px;
+      color: green;
+      display: inline-block;
+    }
+
+
+
+
+
+
+    
