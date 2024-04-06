@@ -15,6 +15,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     mail($admin_email, $subiect, $corp, "From: $email");
 
-    header("Location: pagina principala.html");
+    header("Location: index.html");
     exit();
 }
