@@ -169,12 +169,12 @@ li a:hover {
 .footerp {
   font-size: 15px; 
   color: #ffffff;
-  width: 100vw;
+  width: 85%;
   text-align: center;
   position: fixed;
   padding-top: 10px; 
   padding-bottom:10px;
-  margin-left: 100px;
+  margin-left: 233px;
   bottom: 0px;
   background-color: #333333e7;
 }
