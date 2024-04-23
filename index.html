@@ -12,8 +12,8 @@
         <link rel="stylesheet" href="noutati.html">
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <link rel="icon" href="AgroAdries-label.png">
-                  </head>
-
+        <script src="script.js"></script>
+        </head>
 
         <body>
 
@@ -21,7 +21,7 @@
           
             <header>
               <div class="content">
-                <video muted autoplay loop width="1350vw" height="1900vw" id="video">
+                <video muted autoplay loop !important width="1350vw" height="1900vw" id="video">
                   <source src="videoback.mp4" type="video/mp4">
                 </video>
                 <div style="padding-right: 30px;" id="id20aa1bc8b0186" a='{"t":"s","v":"1.2","lang":"ro","locs":[290],"ssot":"c","sics":"ms","cbkg":"#FFFFFF00",
@@ -32,28 +32,33 @@
               </div>
             </header>
         
-
-
-            
-              <ul>
-                <img src="AgroAdries-label.png" alt="Logo companie" class="label">
-                <li><a class="active" href="index.html">Acasă</a></li>
-                <li><a href="desprenoi.html">Despre Noi</a></li>
-                <li><a href="noutati.html">Noutăți</a></li>
-                <li><a href="servicii.html">Servicii</a></li>
-                <li><a href="contactedate.html">Contacte</a></li>
-                <div class="widget">
-            
-                                      <a target="_blank"
-                                        href="https://www.google.com/maps/place/Agro+Adries/@47.8406398,28.2261783,591m/data=!3m2!1e3!4b1!4m6!3m5!1s0x40cc9d790bc2de6d:0xc75b41f25c83519b!8m2!3d47.8406398!4d28.2287532!16s%2Fg%2F11y3sjdn8l?hl=ro&entry=ttu"
-                                        class="fa fa-home"><span>S.Prajila R-nul.Florești</span></a>
-
+              <div id="sidebar" class="sidebar">
+                <ul>
+                  <img src="AgroAdries-label.png" alt="Logo companie" class="label">
+                  <li><a class="active" href="index.html">Acasă</a></li>
+                  <li><a href="desprenoi.html">Despre Noi</a></li>
+                  <li><a href="noutati.html">Noutăți</a></li>
+                  <li><a href="servicii.html">Servicii</a></li>
+                  <li><a href="contactedate.html">Contacte</a></li>
+                
+                
+                  <div class="widget">
+                    <a target="_blank"
+                      href="https://www.google.com/maps/place/Agro+Adries/@47.8406398,28.2261783,591m/data=!3m2!1e3!4b1!4m6!3m5!1s0x40cc9d790bc2de6d:0xc75b41f25c83519b!8m2!3d47.8406398!4d28.2287532!16s%2Fg%2F11y3sjdn8l?hl=ro&entry=ttu"
+                      class="fa fa-home"><span>S.Prajila R-nul.Florești</span></a>
                     <a href="tel:373 (69) 845 878" class="fa fa-phone"><span>373 (69) 845 878</span></a>
                     <a href="mailto:agroadries@mail.ru" class="fa fa-envelope-o"><span> argroadries@mail.ru</span></a>
-                  <a href="" class="fa fa-clock-o"><span> Mo-Fr/8:00-18:00</span></a>
+                    <a href="" class="fa fa-clock-o"><span> Mo-Fr/8:00-18:00</span></a>
+                
+                  </div>
+                
+                </ul>
+                    <button onclick="toggleSidebar()" id="toggleButton">></button>
+
+              </div>
+
             
-                </div>
-              </ul>
+              
             
             
             </body>

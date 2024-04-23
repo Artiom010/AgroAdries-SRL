@@ -2,7 +2,7 @@
 
 
 return [
-    'mail_settings_prod' => [
+    'mail_settings' => [
         'host' => 'smtp.gmail.com',
         'auth' => true,
         'port' => 465, // 587
