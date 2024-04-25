@@ -71,9 +71,14 @@ html, body {
     left: -230px;
   }
 
-  /* .content {
-    margin-left: 20px;
-  } */
+    .sidebar ul img {
+      width: 130px;
+      margin-left: 10px;
+      margin-top: 20px;
+    }
+    .fa {
+      margin-left: -7%;
+    }
 }
 
 .content {
@@ -741,14 +746,7 @@ h2f {
 :root {
   scroll-behavior: smooth;
 }
-/* 
-header {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  row-gap: 20px;
-  margin-top: 10px;
-} */
+
 
 header h1 {
   background-color: #fff;
@@ -979,13 +977,18 @@ header p {
     margin:0% 0% 0% 15%;
   }
 
+    .card1 p {
+      padding: 20px;
+      font-size: 1.3rem;
+    }
+
   .par1{
       display: flex;
-      margin: -21% 3% -1% 6%;
+      margin: -21% 14% -1% 14%;
     }
         .oferta1  {
           display: flex;
-          margin: -7% 3% -1% 6%;
+          margin: -7% 14% 10% 14%;
         }
   body {
     text-align: center;
@@ -1028,6 +1031,97 @@ header p {
     top: -87px;
     left: 175px;
   }
+
+    .card-video video {
+      position: absolute;
+      top: -50px;
+      left: 21px;
+      width: 92%;
+      height: 160%;
+    }
+
+    .car-video video {
+          position: absolute;
+          top: -7px;
+          left: 0px;
+          width: 96%;
+          height: 142%;
+        }
+
+        .carde-img img {
+          position: relative;
+          margin: -1756px -346px 23px 18px;
+          width: 93%;
+          height: auto;
+        }
+
+    .carsem-video video {
+      position: absolute;
+      top: -109px;
+      left: 22px;
+      width: 91%;
+      height: 200%;
+    }
+
+        .cardes-img img {
+          display: flex;
+          flex-direction: column;
+          align-items: left;
+          margin: 72px 34px 19px 25px;
+          width: 90%;
+          height: auto;
+        }
+
+    .cardess-img img {
+      position: relative;
+      display: flex;
+      flex-direction: column;
+      align-items: left;
+      margin: -1732px 17px 10px 32px;
+      width: 85%;
+      height: auto;
+    }
+
+    .colon1s h1{
+          margin: 0% 10% 12% 14%;
+
+    }
+
+    .imglogoparagraphs {
+                  width: 300px;
+                  padding: -1% 16% 14% 0%;
+                  margin: -49% 0% 10% 0%;
+                  display: flex;
+                  margin-left: auto;
+                }
+    .paragraphs p {
+      text-transform: none;
+      text-align: left;
+      margin: -268px 706px 0px -66px;
+      padding: 10px 0px;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 1.3rem;
+    }
+
+        
+    
+       .colon1s h1co {
+          text-transform: uppercase;
+          text-align: left;
+          margin-left: -169px;
+          margin-top: 139%;
+          font-family: raleway sans-serif;
+          font-size: 1.5rem;
+          font-weight: 600;
+        }
+
+    .paragraphs2 p {
+                  text-transform: none;
+                  text-align: left;
+                  margin: 230px 254px 11px -557px;                  padding: 10px 0px;
+                  font-family: 'Times New Roman', Times, serif;
+                  font-size: 1.3rem;
+                }
 }
 
 /* contacte */
@@ -1068,6 +1162,15 @@ header p {
   background: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
 }
 
+.mapsserv {
+  display: flex;
+  width: 100%;
+  height: 450px;
+  min-height: 20vh;
+  margin-left: 40px;
+  background: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
+}
+
 
 
 @media (max-width: 768px) {
@@ -1075,9 +1178,22 @@ header p {
     margin: -2% 0% 0% 2.9%;
   }
 
+    .mapsserv {
+      margin: -339% 0% 0% 2.9%;
+    }
+
   .pagethis{
     margin-left: 0%;
   }
+
+  .parallax-container4{
+    object-fit: cover;
+  }
+
+    h1s {
+      font-size: 3rem;
+      padding: 3% 22% 0% 33%;
+    }
 
 
 }
