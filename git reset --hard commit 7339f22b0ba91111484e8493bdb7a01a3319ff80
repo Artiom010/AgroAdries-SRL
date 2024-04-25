@@ -1,0 +1,207 @@
+[33mcommit 11c90ddc8232e94b5c89e967f4524badcf6149c8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Thu Apr 25 13:41:31 2024 +0300
+
+    video edit
+
+[33mcommit 99de366e427ca193d9a02219acec1ef5ea0695c7[m
+Merge: 7339f22 5d677cd
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Thu Apr 25 13:25:46 2024 +0300
+
+    Merge branch 'main' of https://github.com/Artiom010/AgroAdries-SRL
+
+[33mcommit 7339f22b0ba91111484e8493bdb7a01a3319ff80[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Thu Apr 25 13:23:58 2024 +0300
+
+    video edit
+
+[33mcommit 26a61af50933372fec8dd528a85dd7094bfd5ebd[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Thu Apr 25 08:30:21 2024 +0300
+
+    cc
+
+[33mcommit 2a99a431154c84c3bcae9407f98f7687052f0246[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Thu Apr 25 08:27:23 2024 +0300
+
+    coomit 10
+
+[33mcommit c2d1acdd6120164ecaaf206ff85b277e78299156[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Wed Apr 24 14:21:38 2024 +0300
+
+    Del C
+
+[33mcommit c7d6ec0cf920efeefb59a049d32c37b795082108[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Wed Apr 24 14:18:32 2024 +0300
+
+    CNAME Added
+
+[33mcommit 03eaca3be735ca23c12ba4e9a52866b99972870c[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Wed Apr 24 10:30:27 2024 +0300
+
+    Reapply "Delete CNAME"
+    
+    This reverts commit 833c5d3cdc414ef2f08b549b40c1dd22d19a2adb.
+
+[33mcommit c2f508ad24748ef8a557c8a179ce716211d1b5c4[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Wed Apr 24 10:30:15 2024 +0300
+
+    Revert "Delete cname"
+    
+    This reverts commit 635e0073c84b9cef4b9b32aed005515ee04eab14.
+
+[33mcommit 801373786daa6f2bd1577c7c934484b99858f219[m
+Merge: 635e007 4167689
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Wed Apr 24 10:16:57 2024 +0300
+
+    Merge branch 'main' of https://github.com/Artiom010/AgroAdries-SRL
+
+[33mcommit 635e0073c84b9cef4b9b32aed005515ee04eab14[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Wed Apr 24 10:16:52 2024 +0300
+
+    Delete cname
+
+[33mcommit 3ddb94ece8639c016ffd1ce50cf74d0b5e4c08a6[m
+Merge: 833c5d3 52e96b8
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Wed Apr 24 09:56:51 2024 +0300
+
+    Merge branch 'main' of https://github.com/Artiom010/AgroAdries-SRL
+
+[33mcommit 833c5d3cdc414ef2f08b549b40c1dd22d19a2adb[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Wed Apr 24 09:53:29 2024 +0300
+
+    Revert "Delete CNAME"
+    
+    This reverts commit 304c0ec4148bb025048dcf7ce3006392493fb333.
+
+[33mcommit 5d677cd4ea2128ccfba2d879361877b2719538e2[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Artiom <114807943+Artiom010@users.noreply.github.com>
+Date:   Wed Apr 24 09:38:25 2024 +0300
+
+    Update CNAME
+
+[33mcommit 7f297d4b64b2142ad4bf456b6ad12edd6c003a5e[m
+Author: Artiom <114807943+Artiom010@users.noreply.github.com>
+Date:   Wed Apr 24 09:37:12 2024 +0300
+
+    Create CNAME
+
+[33mcommit 304c0ec4148bb025048dcf7ce3006392493fb333[m
+Author: Artiom <114807943+Artiom010@users.noreply.github.com>
+Date:   Mon Apr 22 16:18:16 2024 +0300
+
+    Delete CNAME
+
+[33mcommit 4167689b670c7d95e1a01bc3bca62a73e4c2c050[m
+Author: Artiom <114807943+Artiom010@users.noreply.github.com>
+Date:   Tue Apr 23 10:54:46 2024 +0300
+
+    Delete CNAME
+
+[33mcommit 52e96b81c067e4bf25c56e2f66142e70c8849c2a[m
+Author: Artiom <114807943+Artiom010@users.noreply.github.com>
+Date:   Tue Apr 23 10:53:05 2024 +0300
+
+    Create CNAME
+
+[33mcommit 191f641d32a328f85db8b278f7055e7d25557bc8[m
+Author: Artiom <114807943+Artiom010@users.noreply.github.com>
+Date:   Mon Apr 22 16:17:58 2024 +0300
+
+    Create CNAME
+
+[33mcommit 38d1f5b5972cb54bc042d98643fb3e60d6cd18f3[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Tue Apr 23 15:17:04 2024 +0300
+
+    commit 8
+
+[33mcommit c75c6109fdc47cda3e84a37130deaefcbb03fd80[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Tue Apr 9 20:30:45 2024 +0300
+
+    commit 6
+
+[33mcommit c829190a2f6a3aa983190d7c68d52b1e3304a0f9[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Sat Apr 6 15:33:26 2024 +0300
+
+    Commit 5
+
+[33mcommit 5a4a72cad4e22b42b36ca8bee80f5d0ea0c4fb22[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Sat Apr 6 15:28:14 2024 +0300
+
+    Update contactedate.html
+
+[33mcommit e3607ed08f15dae53df1e966ff25f345ca30f172[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Sat Apr 6 15:27:42 2024 +0300
+
+    commit 4
+
+[33mcommit 16fece40bfa47450eb71c1b174c727b18806c07a[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Sat Apr 6 14:31:34 2024 +0300
+
+    commit 3
+
+[33mcommit e5e50bf1727556358c050a807e3642566289eafd[m
+Merge: 028c0fa 6d5d2a1
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Sat Apr 6 14:23:11 2024 +0300
+
+    Merge branch 'main' of https://github.com/Artiom010/AgroAdries-SRL
+
+[33mcommit 028c0fa8ae3bc32ad1a7e071744efe6a6cfafc34[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Sat Apr 6 14:23:07 2024 +0300
+
+    commit 2
+
+[33mcommit 44414b2e866d7b259b868407fa228c7b1767c6e9[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Sat Apr 6 02:15:33 2024 +0300
+
+    last
+
+[33mcommit b4f918b3cf18389c5e60c5d0f7a7e32cdd0c8369[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Sat Apr 6 01:07:43 2024 +0300
+
+    LFS
+
+[33mcommit f16c1c21b7c24e57ba54bcdbc41e61859e5e61e6[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Sat Apr 6 00:44:26 2024 +0300
+
+    comit 1
+
+[33mcommit 39b55bdbf2a3bafc8fa713cbb00d8e87ee29f29f[m
+Author: Artiom <artiom.cc2002@gmail.com>
+Date:   Sat Apr 6 00:35:12 2024 +0300
+
+    Initial commit
+
+[33mcommit 6d5d2a12a9446b961719bc0956fca7ee4b980b9a[m
+Author: Artiom <114807943+Artiom010@users.noreply.github.com>
+Date:   Fri Apr 5 14:47:35 2024 +0300
+
+    Delete CNAME
+
+[33mcommit ded5a2e4abc6c937cfafd1afc537caf76c99edbb[m
+Author: Artiom <114807943+Artiom010@users.noreply.github.com>
+Date:   Fri Apr 5 14:47:24 2024 +0300
+
+    Create CNAME
