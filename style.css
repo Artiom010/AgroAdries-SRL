@@ -901,15 +901,14 @@ header p {
 
 
 
-    .carde-img
-     img{
-      flex: 1;
-      display: flex;
-      flex-direction: column;
-      align-items: left;
-      margin:-464px -461px 23px 384px;
-      width: 80%;
-      height: auto;
+    .carde-img img{
+          flex: 1;
+            display: flex;
+            flex-direction: column;
+            align-items: left;
+            margin: -464px -461px 23px 384px;
+            width: 80%;
+            height: auto;
     }
 
         .carsem-video {
@@ -1021,7 +1020,7 @@ header p {
       height: 160%;
     }
 
-    .car-video video {
+    .car-video iframe {
           position: absolute;
           top: -7px;
           left: 0px;
@@ -1064,14 +1063,14 @@ header p {
     }
 
     .colon1s h1{
-          margin: 0% 10% 12% 14%;
+          margin: -20% 10% 12% 14%;
 
     }
 
     .imglogoparagraphs {
                   width: 300px;
                   padding: -1% 16% 14% 0%;
-                  margin: -49% 0% 10% 0%;
+                  margin: -53% 0% 10% 0%;
                   display: flex;
                   margin-left: auto;
                 }
@@ -1173,7 +1172,7 @@ header p {
 
     h1s {
       font-size: 3rem;
-      padding: 3% 22% 0% 33%;
+      padding:3% 43% 0% 36%;
     }
 
 
@@ -1233,7 +1232,7 @@ h1co {
 }
 
 h1s {
-  font-size: 4rem;
+  font-size: 3rem;
   font-weight: 900;
   color:white;
   margin-right: 700px;
